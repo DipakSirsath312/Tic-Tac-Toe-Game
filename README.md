@@ -28,3 +28,24 @@ This version enhances the experience with intuitive visuals, elegant color schem
 ✅ **Minimal & Modern Design** – Simple layout with smooth transitions and hover effects.  
 
 ---
+
+## 🧠 How It Works 
+
+The logic behind the game is handled completely in **JavaScript**:  
+- A 3x3 matrix is used to store player moves.  
+- Each move triggers a check for all winning conditions.  
+- When a win or draw is detected, the game freezes until restarted.  
+
+The project focuses on **DOM manipulation**, **event handling**, and **conditional logic**, making it a great example of how to create interactive web applications without external frameworks.
+
+---
+
+## 🛠️ Technologies Used  
+
+| Technology | Purpose |
+|-------------|----------|
+| **HTML5** | Structure and layout of the game board |
+| **CSS3** | Styling, colors, and responsive design |
+| **JavaScript (ES6)** | Game logic, event handling, and UI updates |
+
+---
