@@ -10,3 +10,10 @@ Built using **HTML**, **CSS**, and **JavaScript**, this project brings a clean d
 
 ---
 ## 🌟 Overview  
+
+**Tic Tac Toe**, also known as **Noughts and Crosses**, is a simple yet strategic two-player game.  
+Each player takes turns marking a cell in a 3×3 grid — the first player to align three of their marks (either X or O) vertically, horizontally, or diagonally wins the match.  
+
+This version enhances the experience with intuitive visuals, elegant color schemes, and instant win/draw detection — all in a single lightweight web app.
+
+---
