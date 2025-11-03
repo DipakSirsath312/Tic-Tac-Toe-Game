@@ -60,7 +60,7 @@ Tic-Tac-Toe-Game/
 
 ---
 
-🧩 Future Enhancements
+## 🧩 Future Enhancements
 
 Here are a few planned upgrades to make the game even better:
 
@@ -75,3 +75,22 @@ Here are a few planned upgrades to make the game even better:
 📱 Improved mobile gestures support
 
 ---
+
+## 💡 Learning Takeaways
+
+This project is a great beginner-friendly example of combining design and logic.
+You’ll learn:
+
+DOM element targeting and manipulation
+
+Event listeners in JavaScript
+
+Game logic flow control
+
+CSS grid layout and hover effects
+
+Clean and maintainable code structure
+
+---
+
+## 🧑‍💻 Author
