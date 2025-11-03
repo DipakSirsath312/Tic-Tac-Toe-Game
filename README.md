@@ -17,3 +17,14 @@ Each player takes turns marking a cell in a 3×3 grid — the first player to al
 This version enhances the experience with intuitive visuals, elegant color schemes, and instant win/draw detection — all in a single lightweight web app.
 
 ---
+
+## ✨ Features
+
+✅ **Two-Player Mode** – Play with a friend locally on the same device.  
+✅ **Instant Win Detection** – Automatically highlights the winning combination.  
+✅ **Draw Detection** – Declares a tie when the board is full.  
+✅ **Restart Option** – Reset the board anytime with one click.  
+✅ **Responsive UI** – Looks great on desktop and mobile.  
+✅ **Minimal & Modern Design** – Simple layout with smooth transitions and hover effects.  
+
+---
