@@ -49,3 +49,29 @@ The project focuses on **DOM manipulation**, **event handling**, and **condition
 | **JavaScript (ES6)** | Game logic, event handling, and UI updates |
 
 ---
+
+## 📂 Project Structure
+
+Tic-Tac-Toe-Game/
+│
+├── index.html # Main HTML file
+├── style.css # Styling for the board and layout
+└── script.js # Game logic and interactivity
+
+---
+
+🧩 Future Enhancements
+
+Here are a few planned upgrades to make the game even better:
+
+🤖 Single-player mode with AI opponent (Minimax algorithm)
+
+🎨 Theme customization (Dark/Light mode)
+
+💾 Score tracking system
+
+🔊 Sound effects for clicks and wins
+
+📱 Improved mobile gestures support
+
+---
