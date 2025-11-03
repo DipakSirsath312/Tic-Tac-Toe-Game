@@ -94,3 +94,13 @@ Clean and maintainable code structure
 ---
 
 ## 🧑‍💻 Author
+👋 Developed by Dipak Sirsath
+
+Passionate about front-end development, creative web design,and building
+fun interactive projects!
+
+---
+
+## 🌈 “Simple logic, clean design, endless fun.”
+
+---
